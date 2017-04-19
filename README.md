@@ -1,5 +1,5 @@
 # iOSImageOrientationFixer
-A way to fix the orientation of images having right, left, down or mirrored orientation. Developed in Swift, can be used in universal iOS Applications.
+A way to fix the orientation of images having right, left, down or mirrored orientation. Developed in Swift 3.0, can be used in universal iOS Applications.
 
 This is an extension of UIImage class that changes the orientation of images from left, right, down or mirrored orientations to up orientation, while preserving the aspect ratio of the image.
 
